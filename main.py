@@ -1,6 +1,7 @@
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 
+
 st.title("🦜🔗 Gemini Quickstart App")
 
 gemini_api_key = st.sidebar.text_input("Gemini API Key", type="password")
