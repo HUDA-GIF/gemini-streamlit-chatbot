@@ -1,5 +1,5 @@
-streamlit
-langchain
-langchain-community
-langchain-google-genai
-google-generativeai
+streamlit==1.38.0
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-google-genai==1.0.10
+google-generativeai==0.7.2
